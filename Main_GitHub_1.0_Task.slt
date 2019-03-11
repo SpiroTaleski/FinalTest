@@ -31,7 +31,7 @@
             "update_account": "false",
             "update_task": "false"
         },
-        "pipeline_path": "Main GitHub 1.0",
+        "pipeline_path": "../shared/Main GitHub 1.0",
         "snaplex_path": "DEV Cloud"
     },
     "schedule": {},
